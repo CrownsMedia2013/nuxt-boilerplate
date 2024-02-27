@@ -1,0 +1,9 @@
+{
+  "apiEndpoint": "https://on-solutions.prismic.io/api/v2",
+  "repositoryName": "on-solutions",
+  "adapter": "@slicemachine/adapter-nuxt2",
+  "libraries": ["./slices/page", "./slices/header", "./slices/footer", "./slices/form"],
+  "localSliceSimulatorURL": "http://localhost:3000/slice-simulator",
+  "hostname": "https://on-solutions-lac.vercel.app/",
+  "defaultLocale": "de-de"
+}
